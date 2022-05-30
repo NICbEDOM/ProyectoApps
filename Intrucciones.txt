@@ -1,0 +1,12 @@
+El archivo "claseuaoFinal" se debe cargar en phpadmin pues es la base de datos.
+La carpeta "claseuao" se debe colocar en donde se instalo xampp -> htdocs -> api, si la carpeta api no existe es menester crearla.
+La carpeta "Clases_UAO" contiene todo el proyecto de android studios.
+
+Nota: para tener acceso a la base de datos desde la aplicacion es necesario colocar la ip en el archivo java "Constants.java" en la carpeta "com.example.proyectoapp" del proyecto "Clases_UAO-master".
+
+PROYECTO DESARROLLADO POR:
+- Juan Manuel Becerra
+- Daniel Felipe Cosme
+- Juan Camilo Bolaños
+- Jose Alejandro Lopez
+- Nicolas Bedoya
